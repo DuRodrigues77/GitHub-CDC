@@ -1,3 +1,23 @@
+// Numer
+
+// Strings
+
+// Boolean
+
+// Undefined
+
+// Null
+
+// Symbol
+
+// BigInt
+
+
+
+
+
+
+
 const nome = "Du";
 const idade = 31;
 let temCabeloCurto = true;
