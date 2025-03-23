@@ -34,7 +34,11 @@ const autorDoCurso = "Beatriz Schwartz";
 // padrao snake case 
 const autora_do_curso = "Beatriz Schwartz";
 
-const dudu = oioioioi
-console.log(dudu)
+// const $palavras = ``;
+// const _palavras = ``; 
+
+
+
+
 
 
