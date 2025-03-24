@@ -37,7 +37,7 @@ console.log("1 ano depois...")
 carro = "AMG Mercedes";
 console.log("Qual é o carro novo do Du?", carro);
 
-console.log("2 anos depois...")
+console.log("2 anos depois....")
 
 
 carro = null;
