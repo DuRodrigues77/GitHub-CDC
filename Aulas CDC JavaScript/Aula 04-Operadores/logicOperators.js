@@ -1,9 +1,10 @@
-// AND / OR / NOT 
-
+// AND / OR / NOT
+// E   / OU / NEGAÇÃO 
+// &&  /
 console.log("Maria foi parada em uma blitz");
 
 
-const idadeMaria = 20;
-const mariaPossuiCNH = true; 
+const idadeMaria = 17;
+const mariaPossuiCNH = false; 
 // AND
 console.log("Maria vai ser presa?", idadeMaria >= 18 && mariaPossuiCNH === false);
