@@ -1,16 +1,18 @@
 
-const idadeMaria = 18;
-const maiorIdade = 18;
+// const idadeMaria = 17;
+// // const maiorIdade = 18;
 
 
-if (idadeMaria >= 18){
-    console.log("Maria pode dirigir");
- }
- else  {
-    const anosFaltantes = maiorIdade - idadeMaria;
-    console.log("Maria nao pode dirigir!");
-    console.log(`falta ${anosFaltantes} anos para Maria poder dirigir`);
- }
+// if (idadeMaria >= 18){
+//     console.log("Maria pode dirigir");
+//  }
+
+//  else  {
+//     const anosFaltantes = maiorIdade - idadeMaria;
+//     console.log("Maria nao pode dirigir!");
+//     console.log(`falta ${anosFaltantes} anos para Maria poder dirigir`);
+//  }
+
 
 // operadores ternarios
 // 
@@ -26,24 +28,21 @@ console.log("-----------------------")
 // 26 a 60 anos -> adulto
 // mais que 60 anos -> idoso
 
-const idadePessoa = 61;
+// const idadePessoa = 61;
 
-if (idadePessoa >= 0 && idadePessoa <= 12){
-    console.log("Infância");
-}
+// if (idadePessoa >= 0 && idadePessoa <= 12){
+//     console.log("Infância");
+// }else if (idadePessoa >= 13 && idadePessoa <= 17) {
+//     console.log("adolecência");
+// }else if (idadePessoa >= 18 && idadePessoa <= 25){
+//     console.log("jovem adulto");
+// }else if (idadePessoa >= 26 && idadePessoa <= 60){
+//     console.log("adulto")
+// }else {
+//     console.log("idoso");
+// }
 
-else if (idadePessoa >= 13 && idadePessoa <= 17) {
-    console.log("adolecência");
-}
 
-else if (idadePessoa >= 18 && idadePessoa <= 25){
-    console.log("jovem adulto");
-}
 
-else if (idadePessoa >= 26 && idadePessoa <= 60){
-    console.log("adulto")
-}
 
-else {
-    console.log("idoso");
-}
+
